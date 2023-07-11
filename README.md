@@ -2,4 +2,4 @@
 
 Individual work developed for Natural Language Processing module at the University of Surrey
 
-Report available: **NaturalLanguageProcessing_IndividualReport.pdf **
+Report available: NaturalLanguageProcessing_IndividualReport.pdf
